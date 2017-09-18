@@ -1,0 +1,3 @@
+function alertMes(){
+  alert('Hello');
+}
